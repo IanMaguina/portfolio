@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Ian Maguiña Mendoza <br/>
-          <code>Bienvenidos</code>
+          <code>Desarrollador de Software</code>
         </p>
         
       </header>
